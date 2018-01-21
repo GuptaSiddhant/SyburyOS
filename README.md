@@ -4,6 +4,8 @@ DOS-based Operating System UI
 As final submission for high-school C++ course (2012), I created an expansive project to provide a GUI-based operating system for Miscroft-DOS.
 It was build with pre-standard C++ using [Turbo C 3.0 (DOS)](https://en.wikipedia.org/wiki/Turbo_C%2B%2B) IDE and Compiler.
 
+Current compiled executable for DOS in available [here](https://drive.google.com/open?id=1Df4FAB9BXO1-gBa59fQvnb5pkJXwz8lM). Can be run using [DOSBox](https://www.dosbox.com).
+
 I'll be oblidged if someone could re-write the code using current standard C++ and share the code, and if possible compiled executables for macOS and Windows 10 too.
 
 ## User Interface & Design
