@@ -13,8 +13,8 @@
 #define tc textcolor
 #define tb textbackground
 #define wn window
-#define fw windoe(1,1,80,25);
-#define ew windoe(1,2,80,25);
+#define fw window(1,1,80,25);
+#define ew window(1,2,80,25);
 
 struct save
 {	int bgc; char logp[25];
